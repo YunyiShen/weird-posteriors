@@ -1,0 +1,12 @@
+*.Rhistory
+.Rproj.user/*
+.Rproj.user
+*.o
+*.so
+*.dll
+
+.vscode
+*.DS_Store
+#docs
+*.rds
+*.rda

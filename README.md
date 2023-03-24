@@ -9,5 +9,5 @@ A collection of real world models that give posterior with interesting shapes. T
   - Gaussian mixture prior [code](https://github.com/YunyiShen/weird-posteriors/tree/master/cross/spike-and-slab), [readme](https://github.com/YunyiShen/weird-posteriors/blob/master/cross/spike-and-slab/spike-and-slab.md)
   
 - Tunnel shaped
-  - Badly co-linear design [code](https://github.com/YunyiShen/weird-posteriors/tree/master/tunnel/linear-regression), [readme](https://github.com/YunyiShen/weird-posteriors/tree/master/tunnel/linear-regression/linear-regression.md)
+  - Badly co-linear design [code](https://github.com/YunyiShen/weird-posteriors/tree/master/tunnel/linear-regression), [readme](https://github.com/YunyiShen/weird-posteriors/tree/master/tunnel/linear-regression/lm_wrong.md)
   - Plackett-Luce ranking model [code](https://github.com/YunyiShen/weird-posteriors/tree/master/tunnel/Plackett-Luce), [readme](https://github.com/YunyiShen/weird-posteriors/tree/master/tunnel/Plackett-Luce/Plackett-Luce.md)

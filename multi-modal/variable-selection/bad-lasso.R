@@ -4,11 +4,11 @@ rstan_options(auto_write = TRUE)
 
 #### generate samples ####
 set.seed(42)
-n <- 5
+n <- 2
 
 #x <- runif(n, -2,2)
 x <- rep(1,n)
-beta <- 1
+beta <- 5
 y <- x * beta + rnorm(n, 0, 1)
 
 #### sample ####

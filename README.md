@@ -13,4 +13,4 @@ A collection of real world models that give posterior with interesting shapes. T
   - Plackett-Luce ranking model [code](https://github.com/YunyiShen/weird-posteriors/tree/master/tunnel/Plackett-Luce), [readme](https://github.com/YunyiShen/weird-posteriors/tree/master/tunnel/Plackett-Luce/Plackett-Luce.md)
 
 - Multi-modal
-  - Adaptive Bayesian LASSO [code](https://github.com/YunyiShen/weird-posteriors/master/multi-modal/variable-selection), [readme](https://github.com/YunyiShen/weird-posteriors/master/multi-modal/variable-selection/bad-lasso.md)
+  - Adaptive Bayesian LASSO [code](https://github.com/YunyiShen/weird-posteriors/blob/master/multi-modal/variable-selection), [readme](https://github.com/YunyiShen/weird-posteriors/blob/master/multi-modal/variable-selection/bad-lasso.md)

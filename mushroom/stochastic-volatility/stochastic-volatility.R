@@ -22,7 +22,7 @@ for(t in 2:TT){
 y <- rnorm(TT, 0, exp(h/2))
 
 #### sample ####
-stan_model <- stan_model("stochastic-volacity.stan")
+stan_model <- stan_model("stochastic-volatility.stan")
 
 stan_data <- list(T = TT, y = y)
 mushroom <- sampling(stan_model,  data = stan_data, chains = 2, iter = 4000)

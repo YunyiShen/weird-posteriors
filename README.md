@@ -14,3 +14,6 @@ A collection of real world models that give posterior with interesting shapes. T
 
 - Multi-modal
   - Adaptive Bayesian LASSO [code](https://github.com/YunyiShen/weird-posteriors/blob/master/multi-modal/variable-selection), [readme](https://github.com/YunyiShen/weird-posteriors/blob/master/multi-modal/variable-selection/bad-lasso.md)
+
+- Mushroom shaped
+  - Stochastic Volacity model [code](https://github.com/YunyiShen/weird-posteriors/blob/master/mushroom/stochastic-volacity), [readme](https://github.com/YunyiShen/weird-posteriors/blob/master/mushroom/stochastic-volacity/stochastic-volacity.md)

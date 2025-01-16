@@ -4,6 +4,7 @@ A collection of real world models that give posterior with interesting shapes. T
 ## The collections
 - Banana shaped
   - N-mixture models [code](https://github.com/YunyiShen/weird-posteriors/tree/master/banana/N-mixture), [readme](https://github.com/YunyiShen/weird-posteriors/blob/master/banana/N-mixture/n-mixture.md)
+  - Occupancy models when detections are sparse [code](https://github.com/YunyiShen/weird-posteriors/tree/master/banana/occupancy), [readme](https://github.com/YunyiShen/weird-posteriors/tree/master/banana/occupancy/occupancy.md)
 
 - Cross shaped
   - Gaussian mixture prior [code](https://github.com/YunyiShen/weird-posteriors/tree/master/cross/spike-and-slab), [readme](https://github.com/YunyiShen/weird-posteriors/blob/master/cross/spike-and-slab/spike-and-slab.md)

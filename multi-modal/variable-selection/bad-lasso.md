@@ -4,4 +4,5 @@ LASSO can be viewed as MAP of regression with Laplace prior. One can in turn put
 
 In this example we estimate the mean of a Gaussian with unknown variance. We put a Laplace prior on the mean and Gamma prior on the variance. We put a Gamma prior on the parameter of Laplace.
 
-![](https://raw.githubusercontent.com/YunyiShen/weird-posteriors/master/multi-modal/variable-selection/beta.png)
+unnormalized density with penalization level
+![](https://raw.githubusercontent.com/YunyiShen/weird-posteriors/master/multi-modal/variable-selection/beta_lambda.png)

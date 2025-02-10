@@ -2,5 +2,6 @@
 
 One can put a Gaussian mixture prior on regression coefficients ([George and McCulloch 1991](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10476353)), when data is not quite enough a cross like posterior can raise. 
 
-![](https://raw.githubusercontent.com/YunyiShen/weird-posteriors/master/cross/spike-and-slab/beta.png)
+unnormalized density
+![](https://raw.githubusercontent.com/YunyiShen/weird-posteriors/master/cross/spike-and-slab/beta_unnormalized.png)
 

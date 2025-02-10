@@ -1,5 +1,7 @@
-# Weird Posteriors
-A collection of real world models that give posterior with interesting shapes. The model, citations and impelmentation in Stan (and R). 
+# Wild Posteriors
+A collection of real world models that give posterior with interesting shapes. The model, citations and impelmentation in R calculating unnormalized posterior and sampling in Stan. 
+
+![](https://raw.githubusercontent.com/YunyiShen/weird-posteriors/master/zoo.jpg)
 
 ## The collections
 - Banana shaped
@@ -18,3 +20,7 @@ A collection of real world models that give posterior with interesting shapes. T
 
 - Mushroom shaped
   - Stochastic Volatility model [code](https://github.com/YunyiShen/weird-posteriors/blob/master/mushroom/stochastic-volatility), [readme](https://github.com/YunyiShen/weird-posteriors/blob/master/mushroom/stochastic-volatility/stochastic-volatility.md)
+  
+- Singularity
+  - Weak instrumental variable [code](https://github.com/YunyiShen/weird-posteriors/blob/master/singularity/instrumental_var), [readme](https://github.com/YunyiShen/weird-posteriors/blob/master/singularity/instrumental_var/instrumental.md)  
+

@@ -11,3 +11,4 @@
 *.rds
 *.rda
 sandbox/*
+*.csv
